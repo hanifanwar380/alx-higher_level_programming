@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-# Author: Martins Akhivbareme
+# Author: Hanif Miyanji
 
 a = 98
 """Simple variable

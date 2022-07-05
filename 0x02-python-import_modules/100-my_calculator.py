@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-# Author: Martins Akhivbareme
+# Author: Hanif Miyanji
 
 if __name__ == "__main__":
     """Handle basic arithmetic operations."""
