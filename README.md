@@ -1,1 +1,1 @@
-This Repo contains Python programming scripts
+This Repo contains PYTHON programming scripts
