@@ -6,7 +6,7 @@ In this project, I studied object instantiation in Python, delving into variable
 
 ![alt text](https://media.giphy.com/media/wAjfQ9MLUfFjq/giphy.gif)
 
-##### Author: Martins Akhivbareme
+##### Author: Hanif Miyanji
 
 ## Tests :heavy_check_mark:
 
