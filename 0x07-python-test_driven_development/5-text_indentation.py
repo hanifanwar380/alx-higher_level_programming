@@ -1,5 +1,6 @@
 #!/usr/bin/python3
-# Author: Martins Akhivbareme
+# Author: Hanif Miyanji
+
 """Defines a text-indentation function."""
 
 
