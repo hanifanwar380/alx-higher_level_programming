@@ -1,4 +1,4 @@
 #!/usr/bin/python3
-# Author: Martins Akhivbareme
+# Author: Hanif Miyanji
 def copy_list(a):
     return a.copy()
