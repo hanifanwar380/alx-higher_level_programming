@@ -1,4 +1,3 @@
-
 #!/usr/bin/python3
 """
 Contains definiton for the class MyList that inherits from list.
