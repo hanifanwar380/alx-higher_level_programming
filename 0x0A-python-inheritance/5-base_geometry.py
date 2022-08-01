@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # 5-base_geometry.py
-# Brennan D Baraban <375@holbertonschool.com>
+# Author: Hanif Miyanji
 """Defines an empty class BaseGeometry."""
 
 

@@ -1,4 +1,5 @@
 # Python - Inheritance
+# Author: Hanif Miyanji
 
 In this project, I learned about Python class inheritance. I learned about the
 differences between super- and sub-classes while practicing inheritance,

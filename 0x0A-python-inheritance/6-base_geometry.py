@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # 6-base_geometry.py
-# Brennan D Baraban <375@holbertonschool.com>
+# Author: Hanif Miyanji
 """Defines a base geometry class BaseGeometry."""
 
 
