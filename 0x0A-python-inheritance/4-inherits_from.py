@@ -1,5 +1,6 @@
 #!/usr/bin/python3
 # 4-inherits_from.py
+
 # Author: Hanif Miyanji
 """Defines an inherited class-checking function."""
 
