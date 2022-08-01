@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # 100-my_int.py
-# Brennan D Baraban <375@holbertonschool.com>
+# Author: Hanif Miyanji
 """Defines a class MyInt that inherits from int."""
 
 
