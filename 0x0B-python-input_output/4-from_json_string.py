@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # 6-from_json_string.py
-# Brennan D Baraban <375@holbertonschool.com>
+# Author: Hanif Miyanji
 """Defines a JSON-to-object function."""
 import json
 
